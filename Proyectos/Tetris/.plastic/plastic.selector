@@ -1,0 +1,4 @@
+repository "Tetris 2025-02-22_22-08-14/Tetris@4673298860620@cloud"
+  path "/"
+    br "/main"
+    co "/main"

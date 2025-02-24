@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "f6026b7b5528c2d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c88a7dbeb1255284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82627275838a2f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Tetris/Diseño de Tetris.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diseño de Tetris"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dae135b98d2a6ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ccbd6f73c813edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c10af5550e11e5f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0cb7cfbd257778ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b295c3182e5c5273",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e998bda4201dba44",
+    "type": "split",
+    "children": [
+      {
+        "id": "fedd93368d0e4868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21528f4a20a28f97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3b246f7e7d15f1b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4934b2f06595f337",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3f0313bd0a5fbd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "82627275838a2f60",
+  "lastOpenFiles": [
+    "Proyectos/Tetris/Library/BurstCache/JIT/BurstCacheManifest.cm",
+    "Proyectos/Tetris/Temp/UnityTempFile-a28a3b5fb287b8e4485d5469aabdd415",
+    "Proyectos/Tetris/Temp/UnityTempFile-f94e47a729fe6fb45b884b2196ba384a",
+    "Proyectos/Tetris/Library/expandedItems",
+    "Proyectos/Tetris/Temp/UnityTempFile-aa68a7747bbb65142ba95e756abfd4fd",
+    "Proyectos/Tetris/Temp/UnityTempFile-2568a603d0d250f44830ca466df478ea",
+    "Proyectos/Tetris/Temp/ADB-Refresh2ddb6bd46ef26bb4d9738948ee2da312",
+    "Proyectos/Tetris/Temp/UnityTempFile-fd0b705d8d0355f40812dbf1f9d58649",
+    "Proyectos/Tetris/Temp/UnityTempFile-70cf0c49359a6104e82c9d0b065077c8",
+    "Proyectos/Tetris/Temp/ADB-Refresh47f3ca8ef0576044384db06bd9ea8ece",
+    "Proyectos/Tetris/Library/Search/propertyAliases.db_33bd3913c61847f98837775f4f2d5f39_temp",
+    "().md",
+    "Proyectos/Tetris/Diseño de Tetris.md",
+    "Proyectos/Tetris/Temp/Burst/burst-aot8f7rijjo.bmp",
+    "Proyectos/Tetris/Temp/copyassets/Cyan.png",
+    "Proyectos/Tetris/Assets/Sprites/Blue 1.png",
+    "Proyectos/Tetris/Temp/copyassets/Blue.png",
+    "Apuntes/2025-02-21.md",
+    "Diseño de Videojuegos.md",
+    "Apuntes/Primera semana.md",
+    "Untitled.md",
+    "Welcome.md"
+  ]
+}
